@@ -3,6 +3,7 @@
 Spyder Editor
 
 This is a temporary script file.
+
 """
 
 start = input("你今天幾點開始工作?") 
